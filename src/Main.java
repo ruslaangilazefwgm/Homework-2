@@ -25,7 +25,7 @@ public class Main {
 
          totalWorkers = totalWorkers + 94;
          totalWorkHours = hoursEveryWorker * totalWorkers;
-        System.out.println("Если в компании работает " + totalWorkers + " человек, то всего " + totalWorkHours + " часа работы может быть поделено между сотрудниками");
+        System.out.println(" Если в компании работает " + totalWorkers + " человек, то всего " + totalWorkHours + " часа работы может быть поделено между сотрудниками");
 
     }
 }
